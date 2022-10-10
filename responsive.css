@@ -1,0 +1,27 @@
+/* Responsive */
+
+
+    /* Mobile */
+@media only screen and (max-width:46.1875em)  {
+    
+    
+}
+    
+
+    /* Tablet */
+@media only screen and (min-width:46.25em) and (max-width:63.9375em) {
+    
+    
+}
+
+    /* Mobile and Tablet */
+@media only screen and (max-width:63.9375em) {
+    .nav__pc {
+        display: none;
+        
+    }
+    .nav__bars-btn {
+        display: block;
+        margin-left: 8px;
+    }
+}
